@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Necdet. I'm always trying to learn new things and I try what I've learned here.
+
 <!--
 **necdetguner/necdetguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
